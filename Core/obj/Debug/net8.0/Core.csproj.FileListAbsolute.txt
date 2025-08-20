@@ -9,4 +9,3 @@
 /Users/abhisheksharma/skishop/Core/obj/Debug/net8.0/refint/Core.dll
 /Users/abhisheksharma/skishop/Core/obj/Debug/net8.0/Core.pdb
 /Users/abhisheksharma/skishop/Core/obj/Debug/net8.0/ref/Core.dll
-/Users/abhisheksharma/skishop/Core/obj/Debug/net8.0/Core.sourcelink.json
